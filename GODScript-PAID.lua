@@ -2499,12 +2499,12 @@ da_hood_V2:Button("Zellhub op",function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxHackerProLuaStuff/zellhubnew/main/SCRIPTPRO.lua"))()
 end)
 
-da_hood_V2:Button("God mode hood shark",function()
-loadstring(game:HttpGet("https://pastebin.com/raw/GZzx6z2R"))()
+da_hood_V2:Button("God mode ATTACK x DAHOOD",function()
+loadstring(game:HttpGet("https://pastebin.com/raw/xgGeNhaX"))()
 end)
 
-da_hood_V2:Button("TwinGklocs Kara/Ultra X",function()
-loadstring(game:HttpGet(" https://pastebin.com/5qgFtHG5"))()
+da_hood_V2:Button("TwinGklocs ATTACK/ULTRA X",function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aofpooere/HOP2/main/scripthop2"))()
 end)
             local Credits = Win:Tab('Credits')
             
